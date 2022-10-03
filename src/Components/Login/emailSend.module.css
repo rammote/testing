@@ -1,0 +1,21 @@
+.mainContainer{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    color:black;
+    padding: 1rem;
+    box-shadow: 0 0 5px rgba(131, 131, 131, 0.795) ;
+    background-color: white;
+    border-radius: 0.3rem;
+}
+.paragraphContainer{
+    width: 80%;
+
+}

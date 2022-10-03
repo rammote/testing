@@ -1,0 +1,40 @@
+
+{
+    "resultMessage": "Get Application usages successfully",
+    "resultData": [
+        {
+            "appId": "SDWPPI",
+            "appName":"Application Name 1",
+            "usage": [
+                {
+                    "accessOn": "2019-01-01",
+                    "accessCount": "132"
+                },{
+                    "accessOn": "2019-01-02",
+                    "accessCount": "232"
+                },{
+                    "accessOn": "2019-01-03",
+                    "accessCount": "40"
+                }]
+
+        },
+        {
+            "appId": "MEWPPI",
+            "appName":"Application Name 2",
+            "usage": [
+                {
+                    "accessOn": "2019-01-01",
+                    "accessCount": "102"
+                },{
+                    "accessOn": "2019-01-02",
+                    "accessCount": "220"
+                },{
+                    "accessOn": "2019-01-03",
+                    "accessCount": "302"
+                }]
+
+        }
+    ],
+    "resultCode": 0,
+    "timestamp": "2021-12-16 10:31:11"
+}

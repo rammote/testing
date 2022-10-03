@@ -1,0 +1,77 @@
+body{
+    background-color: #F4F6FA;
+    font-family: 'Jost', sans-serif;
+    overflow-x: hidden;
+}
+
+.page_title{
+    color: #0D4990;
+    font-family: 'Jost', sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin-top: 1px;
+
+}
+
+.form_title{
+    color: black;
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.user_name{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.user_email{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.success_message{
+    color: #11A84E;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.message{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.set_backup{
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+}
+
+.check{
+    font-size: 70px;
+    color: gray;
+}
+
+.send_push{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.mobile_email{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+p{
+    color: #707070;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.anchor_tag{
+    font-size: 18px;
+    font-weight: 600;
+}
